@@ -1,1 +1,2 @@
-# ioarp
+# logcz
+## log critical zones
