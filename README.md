@@ -1,2 +1,2 @@
-# logcz
-## log critical zones
+# logpp
+## log pipelined processor
