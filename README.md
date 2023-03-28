@@ -1,2 +1,2 @@
-# logpp
-## log pipelined processor
+# buda
+## buda arch
