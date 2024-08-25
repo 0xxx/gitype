@@ -1,2 +1,2 @@
-# buda
+# BUDA
 ## Business Ubiquity Driven Architecture
