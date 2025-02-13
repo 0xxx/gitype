@@ -1,2 +1,4 @@
-# BUDA
-## Business Ubiquity Driven Architecture
+# Type Driven AI-Native Approach
+
+## BUDA
+### Business Ubiquity Driven Architecture
